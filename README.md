@@ -10,3 +10,4 @@ git stash 1 2
 git checkout -b
 GIT PULL
 git push origin master
+git rebase
