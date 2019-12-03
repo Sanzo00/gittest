@@ -6,4 +6,4 @@ four
 five 5 wu
 git merge
 git merge --no-ff
-git stash 1
+git stash 1 2
