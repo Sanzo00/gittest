@@ -17,10 +17,10 @@ jobs:
         cat README.md
     - name: Push to repository
       run: |
-        git config --global user.name "Sanzo00"
-        git config --global user.email "arrangeman@163.com"
-        now=$(date)
-        git add -A
-        git commit -m "Auto push on ${now}"
-        git push
+        # git config --global user.name "Sanzo00"
+        # git config --global user.email "arrangeman@163.com"
+        # now=$(date)
+        # git add -A
+        # git commit -m "Auto push on ${now}"
+        # git push
         
